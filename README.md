@@ -10,9 +10,8 @@ This repository contains a **Grasshopper definition** that simulates procedural 
 - Exportable results for further modeling or analysis.
 
 ## Video Demo
-Uploading Untit555led-1.mp4…
+![Growth-Demo](https://github.com/user-attachments/assets/dfb35918-59d2-4226-a352-6fd3c8fd0c2f)
 
-> Replace `link-to-your-video` with the YouTube, Google Drive, or other hosted video link showing the Grasshopper + Weaverbird simulation.
 
 ## Usage
 1. Open Rhino and Grasshopper.  
@@ -20,7 +19,5 @@ Uploading Untit555led-1.mp4…
 3. Open the file `Growth-Algorithm-script.gh`.  
 4. Adjust input parameters as desired.  
 5. Run the simulation to see the growth pattern develop in real time.
-
-
 
 
